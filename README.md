@@ -1,0 +1,2 @@
+# DevKite
+DevKite MEAN Structure
